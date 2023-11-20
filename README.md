@@ -14,7 +14,7 @@
 - AWS SES
 
 ### Project Architecture:
-
+https://github.com/baglaaarav/Serverless-WebApp/blob/27d547205972ade8bddd26657a80b90fc5696162/diagram.png
 
 ### What I did:
 
